@@ -1,3 +1,2 @@
-- 🔭 Currently working with Go on DevOps and SRE-related projects
-- 🌱 Currently learning K8S operator development
-- 📫 How to reach me: s0ders [at] pm.me
+- 🔭 Currently working on: DevOps and SRE-related projects
+- 📫 Reach me at: s0ders [at] pm.me
