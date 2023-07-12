@@ -1,2 +1,1 @@
-- 🔭 Currently working on: DevOps and SRE-related projects
-- 📫 Reach me at: s0ders [at] pm.me
+Software engineer specialized in Go, Linux, containers and their ecosystem (e.g., Docker, Kubernetes).
