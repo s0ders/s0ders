@@ -1,1 +1,1 @@
-Software engineer specialized in Go, Linux, containers and their ecosystem (e.g., Docker, Kubernetes).
+Software engineer specialized in Go, containerization and the associated ecosystem.
