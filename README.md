@@ -15,10 +15,12 @@ I'm a software engineer specialized in Go, service-oriented architectures and De
 
 ### Main Repositories
 
-- [go-semver-release](https://github.com/s0ders/go-semver-release), open-source tool written in Go to automate the semantic versionning of Git repositories 
+- [go-semver-release](https://github.com/s0ders/go-semver-release), open-source Go CLI tool to automate semantic versioning of Git repositories using formatted commit logs
 
 
 ## Programming languages
 Languages on which I have enough experience to work with in a professional context:
 
 ![](https://img.shields.io/badge/Go-007D9C?logo=go)
+![](https://img.shields.io/badge/PHP-474a8a?logo=php)
+![](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
