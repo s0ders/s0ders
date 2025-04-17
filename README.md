@@ -24,4 +24,4 @@ Languages on which I have enough experience to work with in a professional conte
 
 ![](https://img.shields.io/badge/Go-007D9C?logo=go)
 ![](https://img.shields.io/badge/PHP-474a8a?logo=php)
-![](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
+![](https://img.shields.io/badge/Python-FFCD3A?logo=python)
