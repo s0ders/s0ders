@@ -11,7 +11,7 @@ I'm a software engineer specialized in Go, service-oriented architectures and De
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-## Main Repositories
+## Main repositories
 
 - [go-semver-release](https://github.com/s0ders/go-semver-release), CLI tool to automate semantic versioning of Git repositories using formatted commit history.
 - [k8s-depends](https://github.com/s0ders/k8s-depends), utility program used as an init container so that a pod waits for given services to be available before starting.
