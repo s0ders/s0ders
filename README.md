@@ -20,7 +20,6 @@ I'm a software engineer specialized in Go, service-oriented architectures and De
 
 
 ## Programming languages
-Languages on which I have enough experience to work with in a professional context:
 
 ![](https://img.shields.io/badge/Go-007D9C?logo=go)
 ![](https://img.shields.io/badge/Python-FFCD3A?logo=python)
