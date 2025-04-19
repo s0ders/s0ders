@@ -1,6 +1,6 @@
 ## Myself
 
-I'm a backend software engineer, mostly using Go, who enjoys working with service-oriented architectures and DevOps practices.
+Backend software engineer, mostly using Go, who enjoys working with service-oriented architectures and DevOps practices.
 
 [![](https://img.shields.io/badge/Website-akira.sh-E17E27?logo=homeadvisor)](https://akira.sh)
 
