@@ -1,6 +1,6 @@
 ## Myself
 
-Backend software engineer, mostly using Go, who enjoys working with service-oriented architectures and DevOps practices.
+Backend software engineer, mostly using Go, who likes working with distributed systems.
 
 [![](https://img.shields.io/badge/Website-akira.sh-E17E27?logo=homeadvisor)](https://akira.sh)
 
@@ -13,7 +13,8 @@ Backend software engineer, mostly using Go, who enjoys working with service-orie
 
 ## Main repositories
 
-- [go-semver-release](https://github.com/s0ders/go-semver-release), CLI tool to automate semantic versioning of Git repositories using formatted commit history.
+- [go-semver-release](https://github.com/s0ders/go-semver-release), CLI tool to automate the semantic versioning of Git repositories using their formatted commit history.
+- [clipboard-clearer](https://github.com/s0ders/clipboard-clearer), program that clears the OS clipboard after a certain (configurable) time.
 - [k8s-depends](https://github.com/s0ders/k8s-depends), utility program used as an init container so that a pod waits for given services to be available before starting.
 
 
