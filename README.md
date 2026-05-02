@@ -14,9 +14,7 @@ Backend software engineer, mostly using Go, who likes working with distributed s
 ## Main repositories
 
 - [go-semver-release](https://github.com/s0ders/go-semver-release), CLI tool to automate the semantic versioning of Git repositories using their formatted commit history.
-- [clipboard-clearer](https://github.com/s0ders/clipboard-clearer), program that clears the OS clipboard after a certain (configurable) time.
-- [k8s-depends](https://github.com/s0ders/k8s-depends), utility program used as an init container so that a pod waits for given services to be available before starting.
-
+- [k8s-reloader](https://github.com/s0ders/k8s-reloader), K8S operator that rolls out deployments, replicasets, statefulsets and daemonsets when a configmap or secret attach to them has its data updated.
 
 ## Programming languages
 
